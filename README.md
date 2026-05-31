@@ -179,5 +179,3 @@ imgmodelsclassifer/
 └── README.md                  # Project documentation (this file)
 ```
 
-
-![VisionAI Dashboard](Vision1.png)
